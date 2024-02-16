@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-I primarily code Paper and BungeeCord/Waterfall Plugins for Minecraft Servers.
+I primarily code Paper and BungeeCord/Waterfall Plugins for Minecraft Servers and Networks.
 You can sometimes find some of my Projects here.
 
 My Social Media:
