@@ -4,5 +4,5 @@ I primarily code Paper and BungeeCord/Waterfall Plugins with Java (obviously) fo
 You can sometimes find some of my Projects here.
 
 My Social Media:
-- YouTube [https://youtube.com/@melonenjoeofficial]
-- Twitch [https://twitch.tv/MelonenJoeTV]
+- YouTube [http://youtube.melonenjoe.net]
+- Twitch [http://twitch.melonenjoe.net]
