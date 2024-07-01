@@ -1,3 +1,3 @@
 Well...
 
-We all know that it's better for us if I you disappear.
+We all know that it's better for us if I just disappear.
